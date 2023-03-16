@@ -2,4 +2,4 @@
 node_modules/
 
 #debug log
-debug.log
+*.log
